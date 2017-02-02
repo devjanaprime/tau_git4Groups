@@ -25,7 +25,7 @@ ex:
 * ```git checkout -b 'loginInterface'```
 * do my work and ``` git add .``` ```git commit -m 'login interface updated'``` (possibly many times)
 * ```git checkout master``` (making sure everything is committed on my feature branch first)
-* `` git pull origin master```
+* ```git pull origin master```
 * check that it works
 * ```git merge loginInterface```
 * check that it works
